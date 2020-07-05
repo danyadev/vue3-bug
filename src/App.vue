@@ -29,7 +29,7 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
 body {
   font-family: Arial, Helvetica, sans-serif;
 }
