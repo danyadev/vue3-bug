@@ -17,14 +17,9 @@ export default {
     const id = computed(() => +router.currentRoute.value.params.id);
     const click = () => {
       if (!id.value) {
-        router.replace(`/messages/1`);
+        router.replace('/messages/1');
       } else {
-        router.replace({
-          name: 'forward-to',
-          params: {
-            fromId: 1
-          }
-        })
+        router.replace('/messages/forward-to');
       }
     }
 

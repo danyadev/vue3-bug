@@ -1,5 +1,5 @@
 <template>
-My chat (id{{ id }})
+  My chat (id{{ id }})
 </template>
 
 <script>

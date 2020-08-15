@@ -1,9 +1,3 @@
 <template>
-chat forward
+  Chat forward
 </template>
-
-<script>
-export default {
-  //
-};
-</script>
