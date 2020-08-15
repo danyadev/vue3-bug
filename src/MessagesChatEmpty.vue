@@ -1,0 +1,3 @@
+<template>
+Empty chat
+</template>
